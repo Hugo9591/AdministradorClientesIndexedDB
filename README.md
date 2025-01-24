@@ -30,7 +30,7 @@ La aplicación cuenta con tres vistas principales:
 - index.html: Página principal con la lista de clientes
 - nuevoCliente.html: Página con el formulario para agregar nuevos clientes
 - editarCliente.html: Página con el formulario para editar clientes
-- css: Archivo de estilos personalizados con Tailwind CSS ├──
+- css: Archivo de estilos personalizados con Tailwind CSS
 - js
   - app.js: Manejo de la tabla y la impresión de registros
   - nuevoCliente.js: Lógica para agregar nuevos clientes
