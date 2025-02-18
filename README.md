@@ -43,16 +43,19 @@ La aplicación cuenta con tres vistas principales:
   - Llena el formulario con nombre, correo, teléfono y empresa.
   - Haz clic en "Agregar Cliente". Serás redirigido automáticamente a la lista de clientes.
 
-2. Editar cliente:
+2. Abrir la aplicación en un servidor local:
+  - Se recomienda utilizar extensiones como Live Server en Visual Studio Code para evitar problemas con CORS.
+
+3. Editar cliente:
   - En la tabla de clientes, haz clic en "Editar".
   - Los datos del cliente se cargarán automáticamente en el formulario.
   - Realiza las modificaciones necesarias y guarda los cambios.
 
-3. Eliminar cliente:
+4. Eliminar cliente:
   - En la tabla de clientes, haz clic en "Eliminar".
   - Confirma la acción para borrar el registro de la base de datos.
     
-4. Validaciones
+5. Validaciones
   - Todos los campos son obligatorios.
   - No se permiten duplicados por correo electrónico.
   - Confirmación antes de eliminar un cliente.
